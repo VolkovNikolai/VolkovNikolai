@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @VolkovNikolai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Привет👋 Меня зовут Николай!</h1>
 
-<!---
-VolkovNikolai/VolkovNikolai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Я начинающий разработчик. Начал изучать Python...🐍⚡ </p>
+
+###
+
+<div align="center">
+  </a>
+  <a href="https://t.me/Nik0lay12" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
